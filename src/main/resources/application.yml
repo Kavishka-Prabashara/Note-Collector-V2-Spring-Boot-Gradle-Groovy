@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: Note-Collector-V2
-server:
-  port: 5050
